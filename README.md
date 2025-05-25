@@ -1,7 +1,7 @@
 # PC Builder App (University Team Project)
 
 Role: Frontend Contributor  
-Aston University – Year 2 Team Project** (Oct 2023 – Mar 2024)  
+Aston University – Year 2 Team Project** (Oct 2024 – Mar 2025)  
 This is a **forked team repository** showcasing collaborative work on a full-stack custom PC e-commerce builder.  
 I contributed to aspects of the frontend UI using React and participated in planning and review discussions.
 
